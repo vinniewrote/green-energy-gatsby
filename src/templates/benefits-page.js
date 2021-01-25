@@ -45,11 +45,11 @@ const BenefitsPage = ({ data }) => {
   );
 };
 
-AboutPage.propTypes = {
+BenefitsPage.propTypes = {
   data: PropTypes.object.isRequired,
 };
 
-export default AboutPage;
+export default BenefitsPage;
 
 export const benefitsPageQuery = graphql`
   query BenefitsPage($id: String!) {
