@@ -1,21 +1,25 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: A Commitment to Sustainability
+image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Another sub heading here
 mainpitch:
-  title: Why Kaldi
+  title: A Commitment to Sustainability
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Are you interested in saving money on energy and saving the planet at the
+    same time? Green Energy Consultants will help you develop a strategic energy
+    strategy plan catered to your individual business.
+
+
+    Green Energy Consultants is committed to advancing a clean energy future by helping business customers reduce the environmental impact of their electricity usage. We develop, market, and invest in innovative renewable energy products & services that promote clean energy produced from naturally replenishable resources.
+
+
+    Green Energy Consultants will help provide a full Energy solution to Commercial and Industrial customers looking to reduce consumption and costs. In addition, Carbon footprint analysis and demand side energy audits will bring your organization not only savings but Peace of mind that you are doing your part to save the planet.
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -52,7 +56,7 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Main Heading here
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
