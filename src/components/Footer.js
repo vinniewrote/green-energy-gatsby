@@ -21,8 +21,14 @@ const Footer = class extends React.Component {
             style={{ width: "250px", height: "auto" }}
           />
         </div>
-        <div className="content has-text-centered has-background-black has-text-white-ter">
-          <div className="container has-background-black has-text-white-ter">
+        <div
+          className="content has-text-centered has-text-white-ter"
+          style={{ backgroundColor: "#033928" }}
+        >
+          <div
+            className="container has-text-white-ter"
+            style={{ backgroundColor: "#033928" }}
+          >
             <div style={{ maxWidth: "100vw" }} className="columns">
               <div className="column is-4">
                 <section className="menu">
