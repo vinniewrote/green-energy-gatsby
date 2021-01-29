@@ -11,7 +11,7 @@ Green Energy Consultants' mission is to provide our customers with an apples to 
 
 ### Goals
 
-Green Energy Consultants wants to provide businesses of all sizes a voice of reason in energy budgeting as well as help develop an energy strategy tailored for that particular business. We also want to help maximize our customers efficiency through the use of our GEMS software solution. The most comprehensive energy reporting and efficiency tool on the market today.
+Green Energy Consultants wants to provide businesses of all sizes a voice of reason in energy budgeting as well as help develop an energy strategy tailored for that particular business. 
 
 ### Capabilities
 
