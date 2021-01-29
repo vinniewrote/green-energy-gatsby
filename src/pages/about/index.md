@@ -1,9 +1,21 @@
 ---
-templateKey: about-page
+heading: About GEC
 path: /about
+templateKey: about-page
 title: About Us
----
-Green Energy Consultants was founded in 2002 to help businesses like yours keep up with and take advantage of the ever-changing energy landscape.
+image: /img/jumbotron.jpg
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
+intro:
+  blurbs: []
+  heading: intro heading
+  description: "\n"
+main:
+  heading: Great coffee with no compromises
+  description:
+    Green Energy Consultants was founded in 2002 to help businesses like yours keep up with and take advantage of the ever-changing energy landscape.
 
 Green Energy Consultants' mission is to provide our customers with an apples to apples comparison of electricity options available as well assist in the development of an energy strategy customized to the needs and unique environment of their company. Green Energy Consultants will provide Demand Side Management products and services designed to reduce kw, therm/btu demand, and consumption at each customer load center. In addition, Green Energy Consultants looks for ways to reduce carbon emissions and decrease greenhouse gases, all while saving our customers money.
 
@@ -20,3 +32,15 @@ In areas where states have not deregulated yet, Green Energy Consultants can pro
 Green Energy Consultants is capable of providing a thorough, customer focused, energy needs analysis and a detailed competitive energy cost analysis on a customer by customer and facility to facility basis.
 
 Green Energy Consultants also provides Demand Side Management products and services designed to reduce kw and therm/btu demand and consumption at each customer load center, reduce carbon emissions and decrease greenhouse gases, all while saving our customers money.
+  image1:
+    alt: A close-up of a paper filter filled with ground coffee
+    image: /img/products-grid3.jpg
+  image2:
+    alt: A green cup of a coffee on a wooden table
+    image: /img/products-grid2.jpg
+  image3:
+    alt: Coffee beans
+    image: /img/products-grid1.jpg
+full_image: /img/products-full-width.jpg
+
+---
