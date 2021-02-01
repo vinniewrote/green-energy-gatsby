@@ -2,7 +2,7 @@
 heading: GEC Services
 path: /services
 templateKey: services-page
-title: Benefits
+title: Services
 image: /img/jumbotron.jpg
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
