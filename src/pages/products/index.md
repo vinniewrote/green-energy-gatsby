@@ -13,7 +13,9 @@ intro:
   description: "\n"
 main:
   heading: GEC
-  description: "\n"
+  description: Green Energy Consultants is a certified Generac distributor of
+    sales and service for the Generac Power Cell , Solar and Battery Storage
+    System.
   image1:
     image: /img/255x84_clean_energy_web_banner.jpg
     alt: coffee
