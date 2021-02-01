@@ -15,7 +15,7 @@ main:
   heading: GEC
   description: "\n"
   image1:
-    image: /img/chemex.jpg
+    image: /img/255x84_clean_energy_web_banner.jpg
     alt: coffee
   image2:
     image: /img/products-grid2.jpg
