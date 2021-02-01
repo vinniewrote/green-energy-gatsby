@@ -1,9 +1,9 @@
 ---
-heading: Generac PWR Cell - Solar and Battery Storage system
-path: /products
 templateKey: product-page
 title: Products
 image: /img/250x250_cleanenergy_web_banner.jpg
+heading: Generac PWR Cell - Solar and Battery Storage system
+path: /products
 description: Green Energy Consultants is a certified Generac distributor of
   sales and service for the Generac Power Cell , Solar and Battery Storage
   System.
@@ -14,6 +14,15 @@ intro:
 main:
   heading: GEC
   description: "\n"
+  image1:
+    image: /img/chemex.jpg
+    alt: coffee
+  image2:
+    image: /img/products-grid2.jpg
+    alt: ydryrt
+  image3:
+    image: /img/products-grid1.jpg
+    alt: bjkbhukl
 full_image: /img/250x250_cleanenergy_web_banner.jpg
 image1:
   alt: A close-up of a paper filter filled with ground coffee
