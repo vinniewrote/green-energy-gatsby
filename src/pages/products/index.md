@@ -10,10 +10,14 @@ description: Green Energy Consultants is a certified Generac distributor of
 intro:
   blurbs: []
   heading: intro heading
-  description: "\n"
+  description: "Cauliflower cheese squirty cheese cheesy grin. Parmesan who moved my cheese ricotta swiss danish fontina stilton boursin gouda. Feta everyone loves pepper jack when the cheese comes out everybody's happy cottage cheese say cheese port-salut st. agur blue cheese. Taleggio roquefort brie danish fontina cheese and biscuits.
+  Cheesy feet cottage cheese taleggio. Cheese slices squirty cheese cheese and biscuits jarlsberg fondue cottage cheese fromage frais cheesy grin. St. agur blue cheese ricotta emmental cheese triangles manchego cream cheese queso say cheese. Hard cheese feta pecorino fromage frais cut the cheese pecorino."
 main:
   heading: GEC
-  description: "\n"
+  description: "Cauliflower cheese squirty cheese cheesy grin. Parmesan who moved my cheese ricotta swiss danish fontina stilton boursin gouda. Feta everyone loves pepper jack when the cheese comes out everybody's happy cottage cheese say cheese port-salut st. agur blue cheese. Taleggio roquefort brie danish fontina cheese and biscuits.
+  Cheesy feet cottage cheese taleggio. Cheese slices squirty cheese cheese and biscuits jarlsberg fondue cottage cheese fromage frais cheesy grin. St. agur blue cheese ricotta emmental cheese triangles manchego cream cheese queso say cheese. Hard cheese feta pecorino fromage frais cut the cheese pecorino.
+  Cauliflower cheese squirty cheese cheesy grin. Parmesan who moved my cheese ricotta swiss danish fontina stilton boursin gouda. Feta everyone loves pepper jack when the cheese comes out everybody's happy cottage cheese say cheese port-salut st. agur blue cheese. Taleggio roquefort brie danish fontina cheese and biscuits.
+  Cheesy feet cottage cheese taleggio. Cheese slices squirty cheese cheese and biscuits jarlsberg fondue cottage cheese fromage frais cheesy grin. St. agur blue cheese ricotta emmental cheese triangles manchego cream cheese queso say cheese. Hard cheese feta pecorino fromage frais cut the cheese pecorino."
 full_image: /img/250x250_cleanenergy_web_banner.jpg
 image1:
   alt: A close-up of a paper filter filled with ground coffee
