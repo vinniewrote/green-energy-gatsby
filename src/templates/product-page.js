@@ -58,7 +58,10 @@ export const ProductPageTemplate = ({
                     <h3 className="has-text-weight-semibold is-size-3">
                       {main.heading}
                     </h3>
-                    <p>{main.description}</p>
+                    <p>
+                      {main.description}
+                      <img src={fullImage.childImageSharp.fluid.src} />
+                    </p>
                   </div>
                 </div>
               </div>
